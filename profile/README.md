@@ -13,7 +13,7 @@
 
 * [`pkgx`](https://github.com/pkgxdev/pkgx) ⎆ run anything
 * [`pkgm`](https://github.com/pkgxdev/pkgm) ⎆ install `pkgx` pkgs to `/usr/local`
-* [`mash`](https://github.com/pkgxdev/dev) ⎆ isolated developer environments per project
+* [`dev`](https://github.com/pkgxdev/dev) ⎆ isolated developer environments per project
 * [`mash`](https://github.com/pkgxdev/mash) ⎆ mash up open source into scripts that are absolute bangers
 
 > pkgx is a core contributor to the [tea protocol](https://github.com/teaxyz)
