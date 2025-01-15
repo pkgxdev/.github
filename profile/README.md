@@ -12,8 +12,8 @@
 *run anything*—from the creator of `brew`.
 
 * [`pkgx`](https://github.com/pkgxdev/pkgx) ⎆ run anything
-* [`mash`](https://github.com/pkgxdev/mash) ⎆ mash up anything into scripts that are absolute bangers
-* [pantry](https://github.com/pkgxdev/pantry) ⎆ package metadata
-* [libpkgx](https://github.com/pkgxdev/libpkgx) ⎆ `import`… but with pkging power
+* [`pkgm`](https://github.com/pkgxdev/pkgm) ⎆ install `pkgx` pkgs to `/usr/local`
+* [`mash`](https://github.com/pkgxdev/dev) ⎆ isolated developer environments per project
+* [`mash`](https://github.com/pkgxdev/mash) ⎆ mash up open source into scripts that are absolute bangers
 
 > pkgx is a core contributor to the [tea protocol](https://github.com/teaxyz)
