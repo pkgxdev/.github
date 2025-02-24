@@ -15,3 +15,4 @@
 * [`pkgm`](https://github.com/pkgxdev/pkgm) ⎆ install `pkgx` pkgs to `/usr/local`
 * [`dev`](https://github.com/pkgxdev/dev) ⎆ isolated developer environments per project
 * [`mash`](https://github.com/pkgxdev/mash) ⎆ mash up open source into scripts that are absolute bangers
+* [`pkgo`](https://github.com/pkgxdev/pkgo) ⎆ package…go! making it simple to run the unpackagable gems of Open Source
