@@ -16,3 +16,4 @@
 * [`dev`](https://github.com/pkgxdev/dev) ⎆ isolated developer environments per project
 * [`mash`](https://github.com/pkgxdev/mash) ⎆ mash up open source into scripts that are absolute bangers
 * [`pkgo`](https://github.com/pkgxdev/pkgo) ⎆ package…go! making it simple to run the unpackagable gems of Open Source
+* [`pkgx-mcp`](https://github.com/pkgxdev/mcp) ⎆ an MCP server for your LLM that can run anything
